@@ -1,0 +1,2 @@
+# Development-of-a-Digital-Mental-Health-and-Psychological-Support-System-for-Students-
+Development of a Digital Mental Health and Psychological Support System for Students in Higher Education:** Developed a web-based platform using HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. Built a Student Dashboard with mental health screening, mood tracking, self-help toolkit, &amp; Q&amp;A features to support student well-being and engagement
