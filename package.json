@@ -1,0 +1,15 @@
+{
+  "name": "geneiusmind-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start"
+  },
+  "dependencies": {
+    "firebase": "^12.12.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
